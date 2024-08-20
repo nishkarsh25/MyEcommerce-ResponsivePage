@@ -29,6 +29,10 @@ The footer section of the website includes contact details such as the company's
 ### 8. Social Media Links
 To foster engagement and build a community around the brand, the website provides links to its social media profiles. Users can follow the brand on platforms such as Facebook, Twitter, Instagram, and LinkedIn to stay connected and informed about news, events, and promotions.
 
+## Live Demo
+
+You can try out the live demo of the app [here](https://myecommerce-responsivepage.onrender.com).
+
 ## Screenshots
 
 <!-- Include screenshots or GIFs of your app here to give users a visual representation of what your app looks like. -->
